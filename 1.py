@@ -1,7 +1,7 @@
 n_1=int(input())
 if(n_1>0):
-  print("positive")
+  print("Positive")
 elif(n_1<0):
-  print("negative")
+  print("Negative")
 else:
-  print("zero")
+  print("Zero")

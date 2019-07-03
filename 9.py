@@ -1,7 +1,7 @@
-xx=int(input())
+xx=input()
 xx=xx.split()
-yy=xx[0]
-zz=xx[1]
+yy=int(xx[0])
+zz=int(xx[1])
 ww=input.split()
 ww=int(ww)
 sum=0

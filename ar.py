@@ -1,0 +1,11 @@
+ll=int(input())
+tt=ll
+su=0
+while(tt>0):
+  rr=tt%10
+  su+=rr**3
+  tt=tt//10
+if(ll==su):
+  print("yes")
+else:
+  print("no")

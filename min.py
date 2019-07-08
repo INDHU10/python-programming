@@ -1,3 +1,3 @@
 r=int(input())
-p=list(map(int,input().split())
+p=list(map(int,input().split()))
 print(min(p))

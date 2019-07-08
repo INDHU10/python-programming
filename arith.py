@@ -1,0 +1,7 @@
+nn=input()
+nn=nn.split()
+h=int(nn[0])
+t=int(nn[1])
+k=int(nn[2])
+s=int(h/2*(2*t+(h-1)*k))
+print(s)

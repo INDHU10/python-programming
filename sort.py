@@ -1,4 +1,5 @@
 p=int(input())
 l=list(map(int,input().split()))
-d=l.sort()
-print(d)
+l.sort()
+for k in l:
+  print(k,end=' ')

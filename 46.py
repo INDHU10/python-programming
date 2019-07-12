@@ -1,2 +1,2 @@
-u=int(input())
-print(u+1)
+ww=int(input())
+print(ww+1)

@@ -9,6 +9,6 @@ for i in range(len(m)):
   else:
     g=0
 if q>=0 and k>=0:
-  print("yes")
+  print("Yes")
 else:
-  print("no")
+  print("No")

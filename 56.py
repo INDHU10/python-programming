@@ -8,7 +8,7 @@ for i in range(len(m)):
     k=k+1
   else:
     g=0
-if q>=0 and k>=0:
+if q>=1 and k>=1:
   print("Yes")
 else:
   print("No")
